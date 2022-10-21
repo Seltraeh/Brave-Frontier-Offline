@@ -1,0 +1,76 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: BraveFrontier.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- mp3
+- assets/layout_headerChallenge.csv
+- assets/layout_headerDailyTask.csv
+- assets/layout_headerTieredTournament.csv
+- assets/layout_header_multi.csv
+- assets/layout_header_vortex_arena.csv
+- assets/treasure_box_wait_cgs.csv
+- assets/unit_cgg_00000.cgg
+- assets/unit_idle_cgs_00000.cgs
+- assets/unit_move_cgs_20011.csv
+- assets/unit_move_cgs_20050.csv
+- assets/unit_move_cgs_30011.csv
+- assets/unit_move_cgs_40011.csv
+- mp4
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: '8'
+  billing.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-crashlytics-ndk.properties: '8'
+  firebase-crashlytics.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-installations-interop.properties: '8'
+  firebase-installations.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-analytics-impl.properties: '8'
+  play-services-analytics.properties: '8'
+  play-services-audience.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-drive.properties: '8'
+  play-services-games.properties: '8'
+  play-services-gcm.properties: '8'
+  play-services-iid.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-plus.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  pusher.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  ch/boye/httpclientandroidlib/impl/conn/tsccm/doc-files/tsccm-structure.png: '0'
+  com/appsflyer/internal/a-: '8'
+  com/appsflyer/internal/b-: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '11014182'
+  versionName: 2.19.6.0
